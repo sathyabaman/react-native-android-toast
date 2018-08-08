@@ -1,0 +1,14 @@
+{
+  "name": "react-native-android-toast",
+  "version": "1.0.0",
+  "description": "androidtoast",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "keywords": [
+    "android"
+  ],
+  "author": "sathya",
+  "license": "ISC"
+}
